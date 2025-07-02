@@ -102,3 +102,4 @@ def handle_buttons(message):
 
 print("🚀 Бот запущен!")
 bot.polling(none_stop=True)
+ 
